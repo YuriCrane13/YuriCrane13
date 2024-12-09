@@ -1,6 +1,10 @@
-### 🐍 Snake Game
+### 🐍 :<
 
 ![GitHub Snake Animation](https://github.com/YuriCrane13/YuriCrane13/raw/output/github-snake.svg)
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuriCrane13/YuriCrane13/output/github-snake-dark.svg" />  
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuriCrane13/YuriCrane13/output/github-snake.svg" />  
+
+
 
 # 🌟 Chill lang di pa umaambag 🌟  
 
