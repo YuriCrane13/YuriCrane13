@@ -40,7 +40,7 @@ I'm a passionate at doing nothing so please send help. 🚀
 
 ## 🎨 For You 🫵
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&width=500&lines=Welcome+to+my+profile%2C+shut+the+F*ck+up!+🔥)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&width=500&lines=Sa+tiktok+lang+mataas+streak+ko%2C+my+bad!+🔥)
 
 ---
 
