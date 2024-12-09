@@ -1,3 +1,7 @@
+### 🐍 Snake Game
+
+![GitHub Snake Animation](https://github.com/YuriCrane13/YuriCrane13/raw/output/github-snake.svg)
+
 # 🌟 Chill lang di pa umaambag 🌟  
 
 WOW AMAZING! 👋  
