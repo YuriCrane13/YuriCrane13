@@ -32,7 +32,7 @@ I'm a passionate at doing nothing so please send help. 🚀
 
 ## 🔥 Streaks
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YuriCrane13&theme=radical&ring=ff4500&fire=ff6347&currStreakLabel=ff1493)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HartCran3&theme=radical&ring=ff4500&fire=ff6347&currStreakLabel=ff1493)
 
 ---
 
