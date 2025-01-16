@@ -59,10 +59,6 @@ I'm a passionate at doing nothing so please send help. 🚀
 
 ---
 
-### 🛠️ Fun Fact:
-> "I can smell races" 😄
-
----
 
 ### 🎨 Widgets:
 
